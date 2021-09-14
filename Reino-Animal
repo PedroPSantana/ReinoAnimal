@@ -1,0 +1,11 @@
+class Reino {
+    public static void main(String[] args) {
+        System.out.println("BALEIA: ");
+        System.out.println("As baleias vivem nos mares e estao entre as criaturas que exercem maior atracao sobre as pessoas. Elas se parecem com peixes, mas na verdade sao mamiferos. Respiram ar e produzem leite para os filhotes As baleias pertencem a ordem dos cetaceos, um grande grupo de animais que inclui os golfinhos e as toninhas");
+        System.out.println("MORCEGO: ");
+        System.out.println("Os morcegos sao mamiferos da Ordem Chiroptera, sendo seus unicos representantes, e estao distribuidos em duas Subordens, Megachiroptera e Microchiroptera, sendo que, no Brasil, nao ha representantes da primeira Subordem. No Brasil, a Ordem Chiroptera se tornou a segunda em maior numero de especies entre os mamiferos, apresentando 164 especies distribuidas em 56 generos. Os morcegos sao os unicos mamiferos que apresentam a capacidade de voar. Esses animais de habitos noturnos possuem audicao bastante agucada e utilizam ecolocalizacao para a captura de presas. Os morcegos podem apresentar diferentes habitos alimentares, alimentando-se, por exemplo, de frutos, insetos, peixes e ate mesmo sangue.");
+        System.out.println("GORILA: ");
+        System.out.println("Os gorilas estao entre os mamiferos mais altos no reino animal. Chegando ate dois metros de altura quando adultos e pesando entre 140 e 230 quilos, eles compoem o grupo dos maiores primatas vivos. Ainda, podem se locomover em quatro patas, sendo que as anteriores sao mais longas do que as posteriores para permitir maior mobilidade e facilitar a escalada em arvores.");
+        
+    }
+}
